@@ -1,6 +1,8 @@
 //your JS code here. If required.
 let student={
-	name:"vivek"
+	name:"John",
+	age:30,
+	city:"New York"
 }
 Object.prototype.getKeys=function()
 {
